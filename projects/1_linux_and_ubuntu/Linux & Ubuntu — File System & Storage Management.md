@@ -26,7 +26,7 @@ mv
 rm
 ```
 
-![image](Attachments/Screenshot%202026-07-08%20233431.png)
+![image](Attachments/screenshot-2026-07-08-233431.png)
 
 
 ---
@@ -43,8 +43,8 @@ which
 whereis
 ```
 
-![image](Attachments/Pasted%20image%20260813020623.png)
-![image](Attachments/Pasted%20image%20260813020729.png)
+![image](Attachments/pasted-image-20260813020623.png)
+![image](Attachments/pasted-image-20260813020729.png)
 
 ---
 
@@ -62,7 +62,7 @@ lsblk
 ip addr
 ```
 
-![image](Attachments/Pasted%20image%20260813020121.png)
+![image](Attachments/pasted-image-20260813020121.png)
 
 ---
 
